@@ -1,3 +1,3 @@
 # react-color
 
-React color project from the Dave gray'react course.
+React color project from the Dave gray's react course.
